@@ -5,10 +5,11 @@ body {
 }
 
 .heading-font {
-    font-family: "Alegreya", serif;
+    font-family: "Playfair", serif;
     font-optical-sizing: auto;
-    font-weight: bold;
+    font-weight: normal;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
 }
 
 #title {
@@ -25,16 +26,16 @@ body {
 }
 
 #btn-book {
-    font-family: "Alegreya", serif;
+    font-family: "Playfair", serif;
     font-optical-sizing: auto;
-    font-weight: 400;
     font-style: normal;
+    font-variation-settings: "wdth" 100;
     font-size: 1.5em;
     color: white;
 }
 
 .outer-content {
-    /* background-color: #410d009c; */
+    background-color: #00000047;
     color: white;
 }
 
