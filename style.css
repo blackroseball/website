@@ -1,6 +1,6 @@
 body {
     background-color: #171110;
-    background-image: url(img/background.jpg);
+    background-image: url(img/background-bw.jpg);
     background-size: cover;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 .outer-content {
-    background-color: #410d009c;
+    /* background-color: #410d009c; */
     color: white;
 }
 
