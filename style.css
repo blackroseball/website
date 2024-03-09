@@ -67,6 +67,7 @@ a:hover {
 
 @media (max-width: 575.98px) {
     .content {
+        font-size: 1em !important;
         padding: 10px !important;
     }
 
@@ -81,5 +82,23 @@ a:hover {
     #flyer {
         border-bottom-left-radius: 0 !important;
         border-bottom-right-radius: 0 !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .content {
+        font-size: 0.8em;
+    }
+}
+
+@media (min-width: 1200px) {
+    .content {
+        font-size: 0.8em;
+    }
+}
+
+@media (min-width: 1400px) {
+    .content {
+        font-size: 1em;
     }
 }
